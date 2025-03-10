@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/0/92f58b3db6314091a02f7688f2721bb1/artifacts
+end_time: 1741583828761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92f58b3db6314091a02f7688f2721bb1
+run_name: loud-goat-830
+run_uuid: 92f58b3db6314091a02f7688f2721bb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741583828725
+status: 3
+tags: []
+user_id: suhaimi

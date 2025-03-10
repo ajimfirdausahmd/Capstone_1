@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/548291989956786102/116ebaa70fe149df883b224ac2351e42/artifacts
+deleted_time: 1741588248154
+end_time: 1741584719031
+entry_point_name: ''
+experiment_id: '548291989956786102'
+lifecycle_stage: deleted
+run_id: 116ebaa70fe149df883b224ac2351e42
+run_name: brawny-bird-612
+run_uuid: 116ebaa70fe149df883b224ac2351e42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741584719004
+status: 3
+tags: []
+user_id: suhaimi

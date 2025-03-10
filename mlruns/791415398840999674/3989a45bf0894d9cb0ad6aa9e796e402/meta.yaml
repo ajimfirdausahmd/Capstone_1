@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/791415398840999674/3989a45bf0894d9cb0ad6aa9e796e402/artifacts
+end_time: 1741589811644
+entry_point_name: ''
+experiment_id: '791415398840999674'
+lifecycle_stage: active
+run_id: 3989a45bf0894d9cb0ad6aa9e796e402
+run_name: luminous-rat-636
+run_uuid: 3989a45bf0894d9cb0ad6aa9e796e402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741589777984
+status: 3
+tags: []
+user_id: suhaimi

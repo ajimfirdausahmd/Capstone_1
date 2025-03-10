@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/791415398840999674/9452d615e4174799a4e34ea9b7f182a0/artifacts
+end_time: 1741589106741
+entry_point_name: ''
+experiment_id: '791415398840999674'
+lifecycle_stage: active
+run_id: 9452d615e4174799a4e34ea9b7f182a0
+run_name: adaptable-snake-53
+run_uuid: 9452d615e4174799a4e34ea9b7f182a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741589092281
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/548291989956786102/a355e1b60597426ca7c2feb41be64463/artifacts
+deleted_time: 1741588244601
+end_time: 1741587728103
+entry_point_name: ''
+experiment_id: '548291989956786102'
+lifecycle_stage: deleted
+run_id: a355e1b60597426ca7c2feb41be64463
+run_name: capable-shrike-244
+run_uuid: a355e1b60597426ca7c2feb41be64463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741587728077
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/791415398840999674/ae54459ea603482b9215b0cad03be830/artifacts
+end_time: 1741588554948
+entry_point_name: ''
+experiment_id: '791415398840999674'
+lifecycle_stage: active
+run_id: ae54459ea603482b9215b0cad03be830
+run_name: luminous-conch-667
+run_uuid: ae54459ea603482b9215b0cad03be830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741588530396
+status: 3
+tags: []
+user_id: suhaimi

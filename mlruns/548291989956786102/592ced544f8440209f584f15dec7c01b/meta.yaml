@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/548291989956786102/592ced544f8440209f584f15dec7c01b/artifacts
+deleted_time: 1741583026443
+end_time: 1741581854202
+entry_point_name: ''
+experiment_id: '548291989956786102'
+lifecycle_stage: deleted
+run_id: 592ced544f8440209f584f15dec7c01b
+run_name: glamorous-wolf-46
+run_uuid: 592ced544f8440209f584f15dec7c01b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741581854155
+status: 3
+tags: []
+user_id: suhaimi

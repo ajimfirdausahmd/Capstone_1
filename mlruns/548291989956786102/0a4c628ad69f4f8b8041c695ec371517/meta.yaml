@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/548291989956786102/0a4c628ad69f4f8b8041c695ec371517/artifacts
+deleted_time: 1741583029413
+end_time: null
+entry_point_name: ''
+experiment_id: '548291989956786102'
+lifecycle_stage: deleted
+run_id: 0a4c628ad69f4f8b8041c695ec371517
+run_name: whimsical-hawk-22
+run_uuid: 0a4c628ad69f4f8b8041c695ec371517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741581854240
+status: 1
+tags: []
+user_id: suhaimi

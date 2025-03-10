@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/791415398840999674/30c1d49310764d39a02a38b79720fe53/artifacts
+end_time: 1741589451193
+entry_point_name: ''
+experiment_id: '791415398840999674'
+lifecycle_stage: active
+run_id: 30c1d49310764d39a02a38b79720fe53
+run_name: fun-hare-455
+run_uuid: 30c1d49310764d39a02a38b79720fe53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741589417210
+status: 3
+tags: []
+user_id: suhaimi

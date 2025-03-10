@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/791415398840999674/7948db43cc77489887b5b2542ab84965/artifacts
+end_time: 1741589354518
+entry_point_name: ''
+experiment_id: '791415398840999674'
+lifecycle_stage: active
+run_id: 7948db43cc77489887b5b2542ab84965
+run_name: fun-toad-428
+run_uuid: 7948db43cc77489887b5b2542ab84965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741589320474
+status: 3
+tags: []
+user_id: suhaimi

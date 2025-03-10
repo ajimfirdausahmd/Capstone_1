@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/548291989956786102/46e404a9273040808c64158b57e511c8/artifacts
+deleted_time: 1741588244601
+end_time: null
+entry_point_name: ''
+experiment_id: '548291989956786102'
+lifecycle_stage: deleted
+run_id: 46e404a9273040808c64158b57e511c8
+run_name: merciful-tern-638
+run_uuid: 46e404a9273040808c64158b57e511c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741584719117
+status: 1
+tags: []
+user_id: suhaimi

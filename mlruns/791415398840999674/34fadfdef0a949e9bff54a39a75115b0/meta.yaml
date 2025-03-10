@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/791415398840999674/34fadfdef0a949e9bff54a39a75115b0/artifacts
+end_time: 1741588783052
+entry_point_name: ''
+experiment_id: '791415398840999674'
+lifecycle_stage: active
+run_id: 34fadfdef0a949e9bff54a39a75115b0
+run_name: delicate-mouse-555
+run_uuid: 34fadfdef0a949e9bff54a39a75115b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741588758859
+status: 3
+tags: []
+user_id: suhaimi

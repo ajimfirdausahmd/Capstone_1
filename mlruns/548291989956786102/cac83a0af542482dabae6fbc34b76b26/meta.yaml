@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/548291989956786102/cac83a0af542482dabae6fbc34b76b26/artifacts
+deleted_time: 1741588244601
+end_time: 1741584059689
+entry_point_name: ''
+experiment_id: '548291989956786102'
+lifecycle_stage: deleted
+run_id: cac83a0af542482dabae6fbc34b76b26
+run_name: bittersweet-cub-80
+run_uuid: cac83a0af542482dabae6fbc34b76b26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741584059646
+status: 3
+tags: []
+user_id: suhaimi
