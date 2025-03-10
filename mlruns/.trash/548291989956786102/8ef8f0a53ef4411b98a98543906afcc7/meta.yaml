@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/548291989956786102/8ef8f0a53ef4411b98a98543906afcc7/artifacts
+deleted_time: 1741596431802
 end_time: 1741587891561
 entry_point_name: ''
 experiment_id: '548291989956786102'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8ef8f0a53ef4411b98a98543906afcc7
 run_name: rare-elk-179
 run_uuid: 8ef8f0a53ef4411b98a98543906afcc7

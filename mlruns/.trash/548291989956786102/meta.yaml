@@ -1,6 +1,7 @@
 artifact_location: file:///c:/Users/suhaimi/Documents/MAFA/Capstone_Project/Capstone_1/mlruns/548291989956786102
 creation_time: 1741581845018
 experiment_id: '548291989956786102'
-last_update_time: 1741581845018
-lifecycle_stage: active
+last_update_time: 1741596431802
+lifecycle_stage: deleted
 name: Covid-dev
+tags: {}
